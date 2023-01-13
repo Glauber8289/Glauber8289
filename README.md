@@ -28,8 +28,8 @@
 
 <div style="display: inline_block" align = "center">
   <a href="https://github.com/Glauber8289">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Glauber8289&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glauber8289&layout=compact&langs_count=168&theme=chartreuse-dark"/>
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Glauber8289&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Glauber8289&layout=compact&langs_count=168&theme=chartreuse-dark"/>
           
 </div>
 </div>
