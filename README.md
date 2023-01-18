@@ -34,7 +34,8 @@
 </div>
 </div>
 
- <br>
+</div>
+</div>
 
 <div align = "center">
 <a href="https://git.io/streak-stats">
@@ -43,7 +44,7 @@
 
 </div>
  
- <br>
+ <br><br>
 
 
 
