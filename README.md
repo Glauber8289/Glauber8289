@@ -18,8 +18,8 @@
 </div>
 </div>
 🔭 Hoje trabalho como Analista de Planejamento prestando serviços para distribuidora de energia ENEL
-	- 🌱 Estou aprendendo a linguagem de programação JAVA
-	- 💬 JAVA
+	- 🌱 Estou aprendendo as linguagens de programação JAVA e Python, sou apaixonado pela área de analítycs e no conceito de como ajudar as pessoas na tomada de decisões orientando-se nos dados. 
+ 
 	- 📫 Como chegar até mim: www.linkedin.com/in/glauber-peterson-a55b3816a
 
 <br>
