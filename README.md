@@ -18,7 +18,7 @@
 </div>
 </div>
 🔭 Hoje trabalho como Analista de Planejamento prestando serviços para distribuidora de energia ENEL
-	- 🌱 Estou aprendendo as linguagens de programação JAVA e Python, sou apaixonado pela área de analítycs e no conceito de como ajudar as pessoas na tomada de decisões orientando-se nos dados. 
+	- 🌱 Estou aprendendo as linguagens de programação JAVA e Python, sou apaixonado pela área de analítycs e no conceito de como ajudar as pessoas a tomar suas decisões orientando-se nos dados. 
  
 
  - 📫 Como chegar até mim: www.linkedin.com/in/glauber-peterson Telefone : 11947279605 
