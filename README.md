@@ -21,7 +21,7 @@
 	- 🌱 Estou aprendendo as linguagens de programação JAVA e Python, sou apaixonado pela área de analítycs e no conceito de como ajudar as pessoas na tomada de decisões orientando-se nos dados. 
  
 
- - 📫 Como chegar até mim: www.linkedin.com/in/glauber-peterson
+ - 📫 Como chegar até mim: www.linkedin.com/in/glauber-peterson Telefone : 11947279605 
 
 
 <br>
