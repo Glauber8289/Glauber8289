@@ -1,20 +1,15 @@
 
 
-
-
-
-
-
 <div>
  <h3 align="center">
-    Olá! Bem vindo(a) ao meu GitHub👋!
+Olá! Bem vindo(a) ao meu GitHub👋!
    
- 
-
+ </h3>
 <div>
-    <p align="center">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Development ;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=#ADFF2FCenter=true&size=22"></a>
-    </p>
+<p align="center">
+         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8924&width=435&lines=Back+End+Development+" alt="Typing SVG" /></a>
+ </p>
+ 
 </div>
 </div>
 🔭 Hoje trabalho como Analista de Planejamento prestando serviços para distribuidora de energia ENEL
