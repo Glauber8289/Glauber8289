@@ -13,7 +13,7 @@ Olá! Bem vindo(a) ao meu GitHub👋!
 </div>
 </div>
 🔭 Hoje trabalho como Coordenador de BI na OPPO.
-	- 🌱 Estou aprendendo as linguagens de programação JAVA, Python,JAVASCRIPT sou apaixonado pela área de analítycs e no conceito de como ajudar as pessoas a tomar suas decisões orientando-se nos dados. 
+	-Estou aprendendo as linguagens de programação JAVA, Python,JAVASCRIPT sou apaixonado pela área de analítycs e no conceito de como ajudar as pessoas a tomar suas decisões orientando-se nos dados. 
  
 
  - 📫 Como chegar até mim: www.linkedin.com/in/glauber-peterson Telefone : 11947279605 
